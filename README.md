@@ -87,6 +87,11 @@ Po izstrelitvi se začne njegova misija, ki vključuje:
 | 9   | **Li-Ion baterija**   | + / -                      | VIN / GND         | Napajanje Arduina                  |
 | 10  | **Proto Shield**      | --                         | Na Arduino         | Fizična razširitev vezja           |
 
+
+SLIKA VEZALNE SHEME:
+
+
+
 SLIKA VEZAVE:
 
 ![slika](https://github.com/user-attachments/assets/4c402d88-32a0-49e9-801a-44c165c83c3a)
