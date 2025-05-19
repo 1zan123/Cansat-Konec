@@ -88,12 +88,57 @@ Po izstrelitvi se začne njegova misija, ki vključuje:
 | 10  | **Proto Shield**      | --                         | Na Arduino         | Fizična razširitev vezja           |
 
 
+
 ![slika](https://github.com/user-attachments/assets/4c402d88-32a0-49e9-801a-44c165c83c3a)
 
 Video delovanja projekta:
 
 https://github.com/user-attachments/assets/a6660e66-6f19-4cc9-bf77-eccf6020bfdd
 
+![sdsdas](https://github.com/user-attachments/assets/d1e169d5-b2d7-4431-bcc5-13005865432f)
+
+#Zgornja slika prikazuje izpis, ki ni popolnoma viden v videu, sam izpis ne vsebuje gpsa saj so seznorji delovali takrat znotraj šole, znotraj šole kjer gps ne deluje.
+
+![image](https://github.com/user-attachments/assets/6405df92-1e27-42c1-9bec-c91c5989427d)
+
+#Gps nam je izpisoval točno lokacijo naše šole, ko je bil ta uporabljen odzunaj, zgorja slika je primer točnega izpisa lokacije.
+
+
+
+
+✅ Kaj je šlo po načrtu
+Senzorji so delovali brez težav.
+
+Program za zajem in prenos podatkov je bil stabilen in zanesljiv.
+
+Kapsula je bila mehansko ustrezno zasnovana in izdelana.
+
+Testiranja padala so pokazala primerne hitrosti spuščanja, skladne s pričakovanji.
+
+⚠️ Kaj ni šlo po načrtu
+Širina kapsule je presegala dovoljene mere glede na pravila tekmovanja.
+
+Povezava z anteno ni delovala, zato prenos podatkov med letom ni bil mogoč.
+
+Nekateri senzorji so bili napačno dostavljeni ali so prispeli prepozno.
+
+Komunikacija v ekipi ni bila vedno optimalna, kar je povzročilo nekaj nesporazumov.
+
+🔁 Kaj bi naredili drugače naslednjič
+Projekt bi začeli pravočasneje, s čimer bi si zagotovili več časa za razvoj in testiranje.
+
+Uporabili bi bolj natančne in zanesljive senzorje.
+
+Poseben poudarek bi namenili izboljšanju komunikacije znotraj ekipe.
+
+Predhodno bi testirali vse komunikacijske module, še posebej brezžične prenose.
+
+🤝 Sodelovanje v ekipi
+Delo je bilo večinoma enakomerno porazdeljeno med člane.
+
+Nekateri člani so imeli nekoliko več zadolžitev, a so jih uspešno opravili.
+
+Kljub izzivom smo dobro sodelovali in dosegli skupne cilje.
 
 
 
