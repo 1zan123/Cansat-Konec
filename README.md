@@ -86,3 +86,14 @@ Po izstrelitvi se začne njegova misija, ki vključuje:
 | 8   | **Yagi antena**       | --                         | Povezana z APC220 | Pasivna – ni direktno na Arduino   |
 | 9   | **Li-Ion baterija**   | + / -                      | VIN / GND         | Napajanje Arduina                  |
 | 10  | **Proto Shield**      | --                         | Na Arduino         | Fizična razširitev vezja           |
+
+
+![slika](https://github.com/user-attachments/assets/4c402d88-32a0-49e9-801a-44c165c83c3a)
+
+Video delovanja projekta:
+
+https://github.com/user-attachments/assets/a6660e66-6f19-4cc9-bf77-eccf6020bfdd
+
+
+
+
