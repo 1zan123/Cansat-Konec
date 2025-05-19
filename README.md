@@ -99,7 +99,7 @@ Po izstrelitvi se začne njegova misija, ki vključuje:
 
 SLIKA VEZALNE SHEME:
 
-
+![image](https://github.com/user-attachments/assets/857757d5-d407-4fcd-92af-c7359655dc45)
 
 
 
