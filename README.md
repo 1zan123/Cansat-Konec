@@ -18,6 +18,7 @@ Po izstrelitvi se začne njegova misija, ki vključuje:
 - in **analizo zbranih podatkov**.
 
 
+
 🎯 Cilj projekta je uspešna izvedba celotne misije in čim bolj natančna zbirka podatkov ob čim manjših dimenzijah sistema.
 ## 🧰 Kosovnica (seznam uporabljenih komponent)
 
@@ -42,6 +43,8 @@ Po izstrelitvi se začne njegova misija, ki vključuje:
 | 17  | Majhna tipka                                   | Uporabniški vmesnik za prižig baterije ter vseh komponent       |
 
 
+
+
 ## Priredbeni seznam – Projekt: CanSat
 
 ### VHODI:
@@ -58,6 +61,8 @@ Po izstrelitvi se začne njegova misija, ki vključuje:
 
 ---
 
+
+
 ### IZHODI:
 
 | **Izhod / Modul**      | **PIN na Arduino** | **VCC (če potrebuje)** | **GND (če potrebuje)** | **Signalni pin** | **Opombe**                          |
@@ -69,6 +74,8 @@ Po izstrelitvi se začne njegova misija, ki vključuje:
 | **RADIO\_TX (APC220)** | D9                 | 5V                     | GND                    | TX → D9          | Serijska komunikacija (SoftSerial)  |
 
 ---
+
+
 
 ## 📌 Priredbeni seznam (Pinout)
 
@@ -88,7 +95,11 @@ Po izstrelitvi se začne njegova misija, ki vključuje:
 | 10  | **Proto Shield**      | --                         | Na Arduino         | Fizična razširitev vezja           |
 
 
+
+
 SLIKA VEZALNE SHEME:
+
+
 
 
 
@@ -100,15 +111,21 @@ VIDEO DELOVANJA SENZORJEV:
 
 https://github.com/user-attachments/assets/a6660e66-6f19-4cc9-bf77-eccf6020bfdd
 
+
+
+
 PRIMER IZPISA:
 
 ![sdsdas](https://github.com/user-attachments/assets/d1e169d5-b2d7-4431-bcc5-13005865432f)
 
 #Zgornja slika prikazuje izpis, ki ni popolnoma viden v videu, sam izpis ne vsebuje gpsa saj so seznorji delovali takrat znotraj šole, znotraj šole kjer gps ne deluje.
 
+
 ![image](https://github.com/user-attachments/assets/6405df92-1e27-42c1-9bec-c91c5989427d)
 
 #Gps nam je izpisoval točno lokacijo naše šole, ko je bil ta uporabljen odzunaj, zgorja slika je primer točnega izpisa lokacije.
+
+
 
 
 
