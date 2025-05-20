@@ -8,7 +8,7 @@ Izziv za sodelujoče je, da v to minimalno prostornino umestijo vse glavne podsi
 - 🌡️ senzorji  
 - 📡 komunikacijski sistem  
 
-CanSat se nato izstreli z raketo do višine približno **enega kilometra**, ali pa se spusti s platforme, brezpilotnega letala ali balona.
+CanSat se nato izstreli z raketo do višine približno **enega kilometra**.
 
 Po izstrelitvi se začne njegova misija, ki vključuje:
 - izvedbo **znanstvenega poskusa**
