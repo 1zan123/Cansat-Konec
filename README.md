@@ -14,7 +14,7 @@ Po izstrelitvi se začne njegova misija, ki vključuje:
 - izvedbo **znanstvenega poskusa**
 - **primarno in sekundarno nalogo**
 - predstavitev uporabljene **tehnologije**
-- **varen pristanek**
+- **pristanek**
 - in **analizo zbranih podatkov**.
 
 
