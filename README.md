@@ -77,18 +77,18 @@ Po izstrelitvi se začne njegova misija, ki vključuje:
 
 
 
-## 📌 Priredbeni seznam (Pinout)
+## 📌 Vezava seznorjev
 
 | Št. | Komponenta            | Signal / Pin na komponenti | Arduino Pin       | Opombe                             |
 | --- | --------------------- | -------------------------- | ----------------- | ---------------------------------- |
 | 1   | **DHT22**             | DATA                       | D2                | Digitalni pin (temperatura/vlaga)  |
 | 2   | **NEO-6M GPS**        | TX                         | D4 (RX Arduino)   | Serijska komunikacija (SoftSerial) |
-|     |                       | RX                         | D3 (TX Arduino)   | --                                 |
+|     | **NEO-6M GPS**        | RX                         | D3 (TX Arduino)   | --                                 |
 | 3   | **HMC5883L**          | SDA / SCL                  | A4 / A5           | I2C komunikacija                   |
 | 4   | **BMP280**            | SDA / SCL                  | A4 / A5           | I2C (skupna vodila z drugimi)      |
 | 5   | **MPU6050**           | SDA / SCL                  | A4 / A5           | I2C (skupna vodila z drugimi)      |
 | 6   | **APC220 (TX modul)** | TX                         | D9 (RX Arduino)  | Serijska komunikacija (SoftSerial) |
-|     |                       | RX                         | D8 (TX Arduino)  | --                                 |
+|     |  **APC220 (TX modul)**| RX                         | D8 (TX Arduino)  | --                                 |
 | 7   | **Majhna tipka**      | OUT                        | D6                | Pull-down uporaba                  |
 | 8   | **Yagi antena**       | --                         | Povezana z APC220 | Pasivna – ni direktno na Arduino   |
 | 9   | **Li-Ion baterija**   | + / -                      | VIN / GND         | Napajanje Arduina                  |
