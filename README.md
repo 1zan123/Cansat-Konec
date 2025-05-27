@@ -164,5 +164,9 @@ Nekateri člani so imeli nekoliko več zadolžitev, a so jih uspešno opravili.
 
 Kljub izzivom smo dobro sodelovali in dosegli skupne cilje.
 
+🚀Video vzleta:
+
+
+https://github.com/user-attachments/assets/8a418614-b999-4226-9c8c-a446f38e8ddf
 
 
